@@ -5,7 +5,7 @@ __pycache__/
 *.tc_backward.*
 *.log
 *.bak
-*.pt
+# *.pt
 instances/Vrp-Set-A/A/
 instances/Vrp-Set-X/X/
 fleet_v3/data/visualization/
